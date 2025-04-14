@@ -15,9 +15,9 @@
 - Оптимизировано положение резисторов и конденсаторов для более удобного монтажа.
 - Шаг выводов всех элементов кратен 2.54мм. Для слота ZX-Bus можно использовать обычный разъем SL-62, без подгибания выводов.
 
-[Принципиальная схема](Export/Schematic_Scorpion-Yellow_v12.2.0.pdf)
+[Принципиальная схема](Export/Schematic_Scorpion-Yellow_v12.2.1.pdf)
 
-[Монтажная схема](Export/PCB_Scorpion-Yellow_v12.2.0.pdf)
+[Монтажная схема](Export/PCB_Scorpion-Yellow_v12.2.1.pdf)
 
 [Чат ZS Scorpion  в Telegram](https://t.me/zs_scorpion)
 
